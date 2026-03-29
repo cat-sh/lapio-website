@@ -1,3 +1,19 @@
-p {
-    background-color: red;
+* {
+    color: orange;
+}
+
+h1 {
+    color: blue;
+}
+
+h2 {
+    color: purple;
+}
+
+#darkred {
+    color: darkred;
+}
+
+.red {
+    color: red;
 }
